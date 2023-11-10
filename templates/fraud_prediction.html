@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraud Prediction</title>
+</head>
+<body>
+    <h2>Fraud Prediction Form</h2>
+    <form action="/fraud/prediction" method="post">
+        Loan Amount Requested: <input type="number" name="LoanAmountRequested" required><br>
+        Loan Term (in years): <input type="number" name="LoanTerm" required><br>
+        Number of Existing Liabilities: <input type="number" name="ExistingLiabilities" required><br>
+        Number of Previous Loans: <input type="number" name="PreviousLoans" required><br>
+        Number of Dependents: <input type="number" name="Dependents" required><br>
+        Occupation: <input type="text" name="Occupation" required><br>
+        Income Level: <input type="number" name="IncomeLevel" required><br>
+        Residential Status: <input type="text" name="ResidentialStatus" required><br>
+        Credit Score: <input type="number" name="CreditScore" required><br>
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>

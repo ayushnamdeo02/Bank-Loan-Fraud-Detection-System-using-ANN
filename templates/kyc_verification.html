@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KYC Verification</title>
+</head>
+<body>
+    <h1>KYC Verification</h1>
+    <form action="{{ url_for('kyc.verification') }}" method="post">
+        <label for="full_name">Full Name:</label>
+        <input type="text" name="full_name" required><br><br>
+
+        <label for="dob">Date of Birth (format: DD-MM-YYYY):</label>
+        <input type="text" name="dob" required><br><br>
+
+        <label for="pan_number">PAN Number:</label>
+        <input type="text" name="pan_number" required><br><br>
+
+        <input type="submit" value="Verify">
+    </form>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            <ul class="flashes">
+                {% for category, message in messages %}
+                    <li class="{{ category }}">{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
+</body>
+</html>

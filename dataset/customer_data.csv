@@ -1,0 +1,31 @@
+CustomerID,Name,DateofBirth,Address,Contact Number,Email,PANNumber,DocumentProof,Occupation,Employer/Business,Income,AccountType,AccountStatus
+1,Rajesh,15-06-1985,123 Lajpat Nagar,9876543210,rajesh@email.in,ABCDE1234F,Aadhaar,Engineer,TCS,27000,Savings,Verified
+2,Priya,10-03-1990,456 MG Road,9876543211,priya@email.in,FEDCB1234A,Voter ID,Doctor,Manipal Hospital,30500,Current,Verified
+3,Aman,20-11-1988,789 Park Street,9876543212,aman@email.in,GHIJK5678H,Passport,Entrepreneur,Self-Employed,30710,Savings,Verified
+4,Anita,05-07-1987,101 Marine Drive,9876543213,anita@email.in,KLMNO9876I,Driving License,Manager,Reliance,49072,Current,Verified
+5,Karthik,15-02-1992,202 Indiranagar,9876543214,karthik@email.in,PQRST5432J,Aadhaar,Software Developer,Infosys,20035,Savings,Pending
+6,Anjali,10-05-1991,45 Alipore,9876543215,anjali@email.in,UVWXY4321K,Aadhaar,Teacher,KV School,56127,Savings,Verified
+7,Rakesh,09-04-1989,67 Andheri West,9876543216,rakesh@email.in,LMNOP9876L,Passport,Finance,Wipro,39538,Current,Verified
+8,Sneha,15-01-1986,89 Koramangala,9876543217,sneha@email.in,OPQRS4567M,Voter ID,Nurse,Apollo Hospital,48651,Savings,Pending
+9,Avinash,18-08-1984,32 Banjara Hills,9876543218,avinash@email.in,QRSTU2345N,Aadhaar,Pharmacist,MedPlus,70749,Current,Verified
+10,Bhavna,30-12-1987,76 Malad,9876543219,bhavna@email.in,STUVW3456O,Driving License,HR,Accenture,75761,Savings,Rejected
+11,Chetan,22-10-1993,14 Connaught Place,9876543220,chetan@email.in,UVWXY4567P,Aadhaar,Writer,Self-Employed,74777,Current,Verified
+12,Deepa,14-02-1995,56 Salt Lake,9876543221,deepa@email.in,XYZAB5678Q,Voter ID,Researcher,ISRO,63217,Savings,Verified
+13,Elina,19-06-1988,21 Vasant Kunj,9876543222,elina@email.in,ZABCD6789R,Passport,Analyst,Citi Bank,21834,Current,Pending
+14,Faizan,20-09-1990,123 Powai,9876543223,faizan@email.in,BCDEF7890S,Driving License,Artist,Self-Employed,66478,Savings,Verified
+15,Gautam,11-03-1992,345 Whitefield,9876543224,gautam@email.in,CDEFG9012T,Aadhaar,Architect,DLF,32308,Current,Verified
+16,Harshita,25-11-1986,67 Rajouri Garden,9876543225,harshita@email.in,DEFGH0123U,Voter ID,Dietician,AIIMS,70845,Savings,Rejected
+17,Ishita,30-07-1994,23 Kukatpally,9876543226,ishita@email.in,EFGHI1234V,Passport,Engineer,DRDO,68018,Current,Verified
+18,Jaspreet,05-05-1991,89 Sarjapur,9876543227,jaspreet@email.in,FGHIJ2345W,Aadhaar,Entrepreneur,Startup,49825,Savings,Pending
+19,Kavita,19-08-1993,12 Bandra,9876543228,kavita@email.in,GHIJK3456X,Voter ID,Event Manager,EventsNow,75447,Current,Verified
+20,Lokesh,20-10-1985,56 Gurgaon,9876543229,lokesh@email.in,HIJKL4567Y,Driving License,Photographer,Self-Employed,52077,Savings,Rejected
+21,Mohini,14-01-1989,78 Ballygunge,9876543230,mohini@email.in,IJKLM5678Z,Aadhaar,Psychologist,Practo,21238,Current,Verified
+22,Neha,18-02-1990,67 HSR Layout,9876543231,neha@email.in,JKLMN6789A,Passport,Designer,Myntra,74543,Savings,Pending
+23,Om,24-12-1984,123 Rajarhat,9876543232,om@email.in,KLMNO7890B,Voter ID,Actor,Bollywood,49908,Current,Verified
+24,Priyanka,23-03-1995,12 Noida,9876543233,priyanka@email.in,LMNOP9012C,Driving License,Journalist,Times Now,68049,Savings,Verified
+25,Qasim,17-04-1992,45 Adyar,9876543234,qasim@email.in,MNOPQ0123D,Aadhaar,Chef,Oberoi,77490,Current,Rejected
+26,Ritu,19-05-1991,78 Worli,9876543235,ritu@email.in,NOPQR2345E,Passport,Flight Attendant,Indigo,68769,Savings,Verified
+27,Sunil,21-06-1988,12 Sholinganallur,9876543236,sunil@email.in,OPQRS3456F,Voter ID,Real Estate,DLF,25954,Current,Pending
+28,Tanya,23-07-1987,45 Rohini,9876543237,tanya@email.in,PQRST4567G,Driving License,Dancer,Self-Employed,47107,Savings,Verified
+29,Umesh,25-08-1986,67 Thane,9876543238,umesh@email.in,QRSTU5678H,Aadhaar,Engineer,L&T,65160,Current,Verified
+30,Vijay,25-12-1986,303 Ashok Vihar,9876543239,vijay@email.in,ZXCVB6789Z,Passport,Marketing,ITC Ltd,34956,Current,Rejected
